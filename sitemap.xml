@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://rjuro.com/kenneth/</loc>
     <lastmod>1986-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/hello/</loc>
+    <loc>https://rjuro.com/kenneth/post/hello/</loc>
     <lastmod>1986-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://rjuro.com/kenneth/post/</loc>
     <lastmod>1986-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://rjuro.com/kenneth/about/</loc>
   </url><url>
-    <loc>/post/1/</loc>
+    <loc>https://rjuro.com/kenneth/post/1/</loc>
   </url><url>
-    <loc>/archive/</loc>
+    <loc>https://rjuro.com/kenneth/archive/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://rjuro.com/kenneth/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://rjuro.com/kenneth/tags/</loc>
   </url>
 </urlset>
